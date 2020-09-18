@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    scroll-behavior: smooth;
+}  
+.container-fluid{
+    height: 100vh;
+}
+#about p{
+    font-size: 25px;
+}
+.subHead{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#about{
+    background-color: cornsilk;
+}
+#contact{
+    background-color: darkgray;
+
+}
+.items img{
+    width:100%;
+    height:90%;
+}
+.items2 img{
+ width:90%;
+ height:50%;
+}
+.items3 img{
+    width:100%;
+    height: 70%;
+}
+
+#welcome{
+    font-size:30px;
+}
+section{
+    font-size: 20px;
+}
